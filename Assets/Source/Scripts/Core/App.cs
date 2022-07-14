@@ -255,6 +255,7 @@ namespace Core
         [UsedImplicitly]
         private static void Initialize()
         {
+            return;
 #if UNITY_EDITOR
             Application.runInBackground = true;
 #else
