@@ -1,0 +1,142 @@
+[
+    {
+        "id": "RATEUS",
+        "text": ""
+    },
+    {
+        "id": "RATEUS_DESCRIPTION",
+        "text": ""
+    },
+    {
+        "id": "TERMS",
+        "text": ""
+    },
+    {
+        "id": "TERMS_DESCRIPTION",
+        "text": ""
+    },
+    {
+        "id": "TOS",
+        "text": ""
+    },
+    {
+        "id": "PRIVACY",
+        "text": ""
+    },
+    {
+        "id": "ACCEPT",
+        "text": ""
+    },
+    {
+        "id": "PAUSE",
+        "text": ""
+    },
+    {
+        "id": "MUSIC",
+        "text": ""
+    },
+    {
+        "id": "SOUND",
+        "text": ""
+    },
+    {
+        "id": "VIBRATION",
+        "text": ""
+    },
+    {
+        "id": "RESTART_LEVEL",
+        "text": ""
+    },
+    {
+        "id": "REMOVE_ADS",
+        "text": ""
+    },
+    {
+        "id": "RESTORE_PURCHASES",
+        "text": ""
+    },
+    {
+        "id": "OOPS",
+        "text": ""
+    },
+    {
+        "id": "NO_INTERNET",
+        "text": ""
+    },
+    {
+        "id": "TRY_AGAIN",
+        "text": ""
+    },
+    {
+        "id": "RESTART",
+        "text": ""
+    },
+    {
+        "id": "RESTART_DESCRIPTION_1",
+        "text": ""
+    },
+    {
+        "id": "RESTART_DESCRIPTION_2",
+        "text": ""
+    },
+    {
+        "id": "YES",
+        "text": ""
+    },
+    {
+        "id": "NO",
+        "text": ""
+    },
+    {
+        "id": "LEVELS",
+        "text": ""
+    },
+    {
+        "id": "YOU_LOST",
+        "text": ""
+    },
+    {
+        "id": "REVIVE_HINT",
+        "text": ""
+    },
+    {
+        "id": "REVIVE",
+        "text": ""
+    },
+    {
+        "id": "NO_THANKS",
+        "text": ""
+    },
+    {
+        "id": "CONGRATS",
+        "text": ""
+    },
+    {
+        "id": "YOUVE_GOT",
+        "text": ""
+    },
+    {
+        "id": "VICTORY_LEVEL",
+        "text": ""
+    },
+    {
+        "id": "VICTORY_NEXT",
+        "text": ""
+    },
+    {
+        "id": "LEVEL",
+        "text": ""
+    },
+    {
+        "id": "TUTOR",
+        "text": ""
+    },
+    {
+        "id": "LOADING",
+        "text": ""
+    },
+    {
+        "id": "FINISH",
+        "text": ""
+    },
+]

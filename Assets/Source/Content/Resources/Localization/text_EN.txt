@@ -1,0 +1,142 @@
+[
+    {
+        "id": "RATEUS",
+        "text": "rate us"
+    },
+    {
+        "id": "RATEUS_DESCRIPTION",
+        "text": "Do you enjoy the game?\nWe'll be glad if you rate us"
+    },
+    {
+        "id": "TERMS",
+        "text": "terms"
+    },
+    {
+        "id": "TERMS_DESCRIPTION",
+        "text": "We've updated our Terms.\n\nTo continue playing, you need to accept our terms:"
+    },
+    {
+        "id": "TOS",
+        "text": "Terms of Service"
+    },
+    {
+        "id": "PRIVACY",
+        "text": "Privacy Policy"
+    },
+    {
+        "id": "ACCEPT",
+        "text": "accept"
+    },
+    {
+        "id": "PAUSE",
+        "text": "pause"
+    },
+    {
+        "id": "MUSIC",
+        "text": "Music"
+    },
+    {
+        "id": "SOUND",
+        "text": "Sound"
+    },
+    {
+        "id": "VIBRATION",
+        "text": "Vibration"
+    },
+    {
+        "id": "RESTART_LEVEL",
+        "text": "Restart level"
+    },
+    {
+        "id": "REMOVE_ADS",
+        "text": "Remove ADS"
+    },
+    {
+        "id": "RESTORE_PURCHASES",
+        "text": "Restore Purchases"
+    },
+    {
+        "id": "OOPS",
+        "text": "OOPS!"
+    },
+    {
+        "id": "NO_INTERNET",
+        "text": "No internet connection"
+    },
+    {
+        "id": "TRY_AGAIN",
+        "text": "try again"
+    },
+    {
+        "id": "RESTART",
+        "text": "restart"
+    },
+    {
+        "id": "RESTART_DESCRIPTION_1",
+        "text": "Are you sure you want to start level again?"
+    },
+    {
+        "id": "RESTART_DESCRIPTION_2",
+        "text": "The progress will be lost."
+    },
+    {
+        "id": "YES",
+        "text": "yes"
+    },
+    {
+        "id": "NO",
+        "text": "no"
+    },
+    {
+        "id": "LEVELS",
+        "text": "levels"
+    },
+    {
+        "id": "YOU_LOST",
+        "text": "YOU LOST!"
+    },
+    {
+        "id": "REVIVE_HINT",
+        "text": "Watch ads to revive?"
+    },
+    {
+        "id": "REVIVE",
+        "text": "revive"
+    },
+    {
+        "id": "NO_THANKS",
+        "text": "No, thanks"
+    },
+    {
+        "id": "CONGRATS",
+        "text": "CONGRATS!"
+    },
+    {
+        "id": "YOUVE_GOT",
+        "text": "You've got:"
+    },
+    {
+        "id": "VICTORY_LEVEL",
+        "text": "Level"
+    },
+    {
+        "id": "VICTORY_NEXT",
+        "text": "NEXT >>"
+    },
+    {
+        "id": "LEVEL",
+        "text": "level"
+    },
+    {
+        "id": "TUTOR",
+        "text": "HOLD & DRAG TO PLAY"
+    },
+    {
+        "id": "LOADING",
+        "text": "loading..."
+    },
+    {
+        "id": "FINISH",
+        "text": "FINISH!"
+    },
+]

@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: 6410f41a0c9eabc4ab63958aead85f84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8289308900969268116
+    second: circle-timer-background
+  - first:
+      213: 6004597535561896319
+    second: Shine
+  - first:
+      213: -210831078337849435
+    second: circle-timer
+  - first:
+      213: -1127803940300388072
+    second: Character
+  - first:
+      213: 2596643519989627568
+    second: popup-background
+  - first:
+      213: -3271081199398111528
+    second: popup-header
+  - first:
+      213: -352008407841646154
+    second: no-wi-fi
+  - first:
+      213: 8636877481111216802
+    second: button
+  - first:
+      213: -9020617096728246732
+    second: button-red
+  - first:
+      213: -12829071685209730
+    second: button-green
+  - first:
+      213: -1086336082544424418
+    second: button-gray
+  - first:
+      213: 7794172609828667158
+    second: toggle-off
+  - first:
+      213: -9148380428170291225
+    second: toggle-on
+  - first:
+      213: -5977952702380362625
+    second: button-lock
+  - first:
+      213: 3802091392676919337
+    second: star
+  - first:
+      213: -4981669439288412377
+    second: no-ads
+  - first:
+      213: 6531950126906274277
+    second: star-empty
+  - first:
+      213: 1158167132765764341
+    second: button-background
+  - first:
+      213: 5925361734711387042
+    second: ads
+  - first:
+      213: 8736640566862992771
+    second: close-button
+  - first:
+      213: 8723784492013935250
+    second: toggle-handle
+  - first:
+      213: 6934154925517905568
+    second: menu
+  - first:
+      213: 3682198241061462868
+    second: vibro
+  - first:
+      213: 1187961194834725857
+    second: back
+  - first:
+      213: 7429914694830084677
+    second: pause
+  - first:
+      213: 6493222095853719535
+    second: sound
+  - first:
+      213: 8810006810511930541
+    second: music
+  - first:
+      213: -877065831318381754
+    second: restart
+  - first:
+      213: -6937311036786429589
+    second: rice-star
+  - first:
+      213: -2043017983467968750
+    second: arrow
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 80
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: circle-timer-background
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 888
+        height: 888
+      alignment: 9
+      pivot: {x: 0.49887386, y: 0.5011261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493c1cbd68a890370800000000000000
+      internalID: 8289308900969268116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shine
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1
+        width: 844
+        height: 864
+      alignment: 9
+      pivot: {x: 0.50236964, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f715a5615ad945350800000000000000
+      internalID: 6004597535561896319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle-timer
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 891
+        width: 846
+        height: 848
+      alignment: 9
+      pivot: {x: 0.49881798, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a75f04504af21df0800000000000000
+      internalID: -210831078337849435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 867
+        width: 508
+        height: 507
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5009862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8190c1aaa4c3950f0800000000000000
+      internalID: -1127803940300388072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup-background
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1376
+        width: 402
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 90, y: 90, z: 90, w: 90}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba3d491681290420800000000000000
+      internalID: 2596643519989627568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: popup-header
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 867
+        width: 402
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 32, z: 100, w: 92}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6ba66eaf8ca92d0800000000000000
+      internalID: -3271081199398111528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no-wi-fi
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1741
+        width: 390
+        height: 291
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9d5a4d73a6d1bf0800000000000000
+      internalID: -352008407841646154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-green
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1376
+        width: 189
+        height: 189
+      alignment: 9
+      pivot: {x: 0.4973545, y: 0.5026455}
+      border: {x: 49, y: 50, z: 50, w: 49}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71b76bf60c62dff0800000000000000
+      internalID: -12829071685209730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-red
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1
+        width: 189
+        height: 189
+      alignment: 9
+      pivot: {x: 0.4973545, y: 0.5026455}
+      border: {x: 49, y: 50, z: 50, w: 49}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43682b63b8450d280800000000000000
+      internalID: -9020617096728246732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-gray
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1780
+        width: 189
+        height: 189
+      alignment: 9
+      pivot: {x: 0.4973545, y: 0.5026455}
+      border: {x: 49, y: 50, z: 50, w: 49}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a004da61f8ce0f0800000000000000
+      internalID: -1086336082544424418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1115
+        width: 189
+        height: 189
+      alignment: 9
+      pivot: {x: 0.4973545, y: 0.5026455}
+      border: {x: 39, y: 40, z: 40, w: 39}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a264361f4a5cd770800000000000000
+      internalID: 8636877481111216802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toggle-off
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1567
+        width: 189
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fbaee71b67a2c60800000000000000
+      internalID: 7794172609828667158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toggle-on
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 192
+        width: 189
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e716c4887c6a0180800000000000000
+      internalID: -9148380428170291225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-lock
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1741
+        width: 174
+        height: 177
+      alignment: 9
+      pivot: {x: 0.49712643, y: 0.50282484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74388290bb0a0da0800000000000000
+      internalID: -5977952702380362625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1115
+        width: 148
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5033784, y: 0.45804197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928f3103afdb3c430800000000000000
+      internalID: 3802091392676919337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no-ads
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1306
+        width: 147
+        height: 134
+      alignment: 9
+      pivot: {x: 0.49659863, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7277bcaf90e8ddab0800000000000000
+      internalID: -4981669439288412377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-empty
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1644
+        width: 141
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4595588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1f0dc580626aa50800000000000000
+      internalID: 6531950126906274277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-background
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 269
+        width: 132
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 35, y: 35, z: 35, w: 35}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa390bfed2a21010800000000000000
+      internalID: 1158167132765764341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ads
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1920
+        width: 132
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a32a239a1d1b3250800000000000000
+      internalID: 5925361734711387042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: close-button
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1
+        width: 112
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5045045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385d22e8e48ce3970800000000000000
+      internalID: 8736640566862992771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toggle-handle
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1741
+        width: 87
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a5d8f56cb111970800000000000000
+      internalID: 8723784492013935250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1115
+        width: 78
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae15018a211b3060800000000000000
+      internalID: 6934154925517905568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vibro
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1260
+        width: 81
+        height: 63
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.50793654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45369078acbc91330800000000000000
+      internalID: 3682198241061462868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1442
+        width: 79
+        height: 50
+      alignment: 9
+      pivot: {x: 0.49367088, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21728a9e7fdb5a3e0800000000000000
+      internalID: -2043017983467968750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1644
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb8211a96c7c7010800000000000000
+      internalID: 1187961194834725857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pause
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 269
+        width: 63
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5425dc0bc0c5c1760800000000000000
+      internalID: 7429914694830084677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 403
+        width: 74
+        height: 63
+      alignment: 9
+      pivot: {x: 0.49324325, y: 0.50793654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef0417f71f8c1a50800000000000000
+      internalID: 6493222095853719535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: music
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 192
+        width: 59
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.50793654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4f559448e634a70800000000000000
+      internalID: 8810006810511930541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: restart
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1971
+        width: 56
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b92a7f54904d3f0800000000000000
+      internalID: -877065831318381754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rice-star
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 891
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.4888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61b2f31e58b9bf90800000000000000
+      internalID: -6937311036786429589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

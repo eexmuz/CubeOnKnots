@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a63b713aeb2bf584daa434a031658a53, type: 3}
+  m_Name: UISettings
+  m_EditorClassIdentifier: 
+  data:
+    shroudPrefab: {fileID: 1000011111299154, guid: 193adbeeffd224ac78d5bdce1416cfb5, type: 3}
+    uiLockerPrefab: {fileID: 1000011342483194, guid: add5c78657630451ba4e59db535504a4, type: 3}
+    names: 040000000000000001000000030000000200000005000000060000000700000008000000
+    prefabs:
+    - {fileID: 5946337903996488131, guid: 4fbe9189fda444540bcfca84cd6eeefa, type: 3}
+    - {fileID: 71462760134128375, guid: f84095e1b43d845a789712d6636e2929, type: 3}
+    - {fileID: 3774250485276021970, guid: 762c569cf8b481243ac0f15dc929e1a8, type: 3}
+    - {fileID: 5679496035202828037, guid: 2e2dcfabf6ced6a4dbb401eb907b7912, type: 3}
+    - {fileID: 7779502867811725330, guid: 7e26f3dd9bc6a164497756997e94740a, type: 3}
+    - {fileID: 1999869471659242626, guid: a915297826871a2479e193631c657c8b, type: 3}
+    - {fileID: 1481385863520110213, guid: ea86094908b9eb14186ab699f9ea20cc, type: 3}
+    - {fileID: 4651194699997028237, guid: 650f61e78c8cb9148864f2d6d38417e8, type: 3}
+    - {fileID: 2932835153040647506, guid: 0b8d265e12b75478ba47579e5af8e591, type: 3}

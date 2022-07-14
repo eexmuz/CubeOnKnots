@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 221375f0dee5502418ca2684e53ba19b, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  loader: {fileID: 1990758559144944, guid: 9d60ad2488bf7e9409dfeb6a47764227, type: 3}
+  Levels:
+  - {fileID: 11400000, guid: ab55d6f7b69dc3841aea38d150962314, type: 2}
+  - {fileID: 11400000, guid: a949a729f9a974541b0441633feb2285, type: 2}
+  BlockColors: {fileID: 11400000, guid: 011c5a2d52a8dc240a2f6a0d436828ad, type: 2}
+  BlockPrefab: {fileID: 1297819643744825390, guid: a17044c278db7444085f882d96ccf489, type: 3}
+  CellSize: {x: 1, y: 1}
+  SwipeAnimationDuration: 0.2

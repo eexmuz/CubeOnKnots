@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fa5f64f878a463a92f80f907b2fc0a8, type: 3}
+  m_Name: BlockColorSettings
+  m_EditorClassIdentifier: 
+  _blockColors:
+  - Value:
+      POT: 0
+      Number: 1
+    Color: {r: 1, g: 1, b: 1, a: 1}
+  - Value:
+      POT: 1
+      Number: 2
+    Color: {r: 1, g: 0, b: 0, a: 1}
+  - Value:
+      POT: 2
+      Number: 4
+    Color: {r: 0.48235294, g: 0.8862745, b: 0, a: 1}
+  - Value:
+      POT: 3
+      Number: 8
+    Color: {r: 1, g: 0.8980392, b: 0, a: 1}
+  - Value:
+      POT: 4
+      Number: 16
+    Color: {r: 0.27058825, g: 0.3019608, b: 1, a: 1}
+  - Value:
+      POT: 5
+      Number: 32
+    Color: {r: 1, g: 0.42745098, b: 0.99607843, a: 1}
+  - Value:
+      POT: 6
+      Number: 64
+    Color: {r: 1, g: 0.6901961, b: 0.2784314, a: 1}
+  - Value:
+      POT: 7
+      Number: 128
+    Color: {r: 0.7058824, g: 0.3137255, b: 0, a: 1}
+  - Value:
+      POT: 8
+      Number: 256
+    Color: {r: 0.83, g: 0.68309, b: 0.82899374, a: 1}
+  - Value:
+      POT: 9
+      Number: 512
+    Color: {r: 0.83137256, g: 1, b: 0.34509805, a: 1}
+  - Value:
+      POT: 10
+      Number: 1024
+    Color: {r: 0.5176471, g: 0, b: 0, a: 1}

@@ -1,0 +1,312 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3da6bf7457509244ada6e1d6082091f, type: 3}
+  m_Name: UI Atlas
+  m_EditorClassIdentifier: 
+  Dirty: 0
+  AutoUpdate: 0
+  ForceSquare: 0
+  DefaultTrim: 1
+  DefaultPadSize: 1
+  Identifier: f1158901e4b842d4bb8f4178cf22d665
+  Width: 2048
+  Height: 1024
+  DefaultPadStyle: 0
+  Texture: {fileID: 2800000, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  Sources:
+  - Flag: 0
+    Identifier: 74c3df0883d6efb45818e06e71874dcc
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 168cd85e5f5876b4390c5d71e5036211
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 68d3b9b07b00a134aab81fe1f3b738ed
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 7f8329743e6a3ed49b2f70960617f965
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 822ba526a30972949a187de6c5e46695
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: cc7e8eaeb222eb249af03ffe355dbe6f
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 01bfbb48175789c44a710d8c7f3bc23c
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 807dffdff85c055408cbff898a80a81e
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: f69ea31e33200cc469428657d93cccdc
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 8c15f800813e7f143b269fd9e4dc7829
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: a06cb75cdf52a84418e526229d6b30e6
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: c56b850677ae5d043b51f4b8c9a06ec0
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 8c023f57ecd5ab24fbee7f949d6b5ca5
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 96bcfc9536f1b724a9f37877888e2ff6
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: f9b3e128d63d8cc4dac9404e24825dae
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: f8a0017e211ec554ca5e519fe3438dc0
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 8525145d5ed0eed4a866aef477964072
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: f616a5c587a620445a70d0d2150ad81b
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: d1b2cc0442adc134b90274e5ce695549
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 0806fcf4327febf4f9813deb98ce4882
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 6d1a67681c2308c4285b515bbbe7fabc
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 135d4756494ee7a4d8d9964c691304a7
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: ddda099ec35c1bc4e852d042b51bccbb
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: a682bb6232185f14b864782d96c8d01f
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 13e5dab9fcf0af04590c279ed1798945
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  - Flag: 0
+    Identifier: 4909f92160ab5b240b118bfd2a7d5bae
+    Dirty: 0
+    Trim: 1
+    PadSize: 1
+    PadStyle: 0
+    UseCustomPivot: 0
+    CustomPivot: {x: 0.5, y: 0.5}
+    UseCustomBorder: 0
+    CustomBorder: {x: 0, y: 0, z: 0, w: 0}
+  Sprites:
+  - {fileID: -1242628687296170025, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: -3190783083862809608, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: 8636877481111216802, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: 6934811769427875740, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: -5764469917993626149, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: 4230216764240656230, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: -102470257017897171, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: 27460399736613430, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: 2253250081803624791, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: 3654536293377891752, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: -6005333705425061103, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: -9044056092158902731, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: 6493222095853719535, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: -1717801232438926218, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: -3316200858291740356, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: -3150856343209043647, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: -1016865094705550642, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: 3682198241061462868, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: 7642793096928879135, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: -8141995805379898937, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: 3314020849948320183, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: -3577829298904880972, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: 4977172005329777788, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: -761933863725385812, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: -1816755548282093316, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}
+  - {fileID: -3181606171480048652, guid: f1158901e4b842d4bb8f4178cf22d665, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18d90eac719462046b74bab88fe883fd, type: 3}
+  m_Name: GameAudioSettings
+  m_EditorClassIdentifier: 
+  audioMixer: {fileID: 24100000, guid: 51322990cec95a5468c6eae207f4e67c, type: 2}
+  battleChannel: {fileID: 243023674146813270, guid: 51322990cec95a5468c6eae207f4e67c,
+    type: 2}
+  master: {fileID: 24300002, guid: 51322990cec95a5468c6eae207f4e67c, type: 2}
+  musicChannel: {fileID: 243041121539235594, guid: 51322990cec95a5468c6eae207f4e67c,
+    type: 2}
+  soundChannel: {fileID: 243605791788228398, guid: 51322990cec95a5468c6eae207f4e67c,
+    type: 2}
+  uiChannel: {fileID: 243150030008245864, guid: 51322990cec95a5468c6eae207f4e67c,
+    type: 2}

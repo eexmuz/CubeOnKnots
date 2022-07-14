@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b0030d7dec84ff0bfe73801d3ab2b1e, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  DefaultLevelStatus:
+    Unlocked: 1
+    Stars: 0
+    Complete: 0
+  TargetValue:
+    POT: 10
+    Number: 1024
+  StarMoves:
+    x: 13
+    y: 11
+    z: 9
+  Dimensions:
+    x: 5
+    y: 5
+  CellsData:
+  - Coords:
+      x: 0
+      y: 1
+    BlockInfo:
+      PowerOfTwo: 0
+      Movable: 0
+      Mergeable: 0
+  - Coords:
+      x: 2
+      y: 2
+    BlockInfo:
+      PowerOfTwo: 8
+      Movable: 1
+      Mergeable: 1
+  - Coords:
+      x: 2
+      y: 3
+    BlockInfo:
+      PowerOfTwo: 9
+      Movable: 0
+      Mergeable: 1
+  - Coords:
+      x: 4
+      y: 4
+    BlockInfo:
+      PowerOfTwo: 0
+      Movable: 0
+      Mergeable: 0
+  - Coords:
+      x: 0
+      y: 2
+    BlockInfo:
+      PowerOfTwo: 7
+      Movable: 1
+      Mergeable: 1
+  - Coords:
+      x: 1
+      y: 2
+    BlockInfo:
+      PowerOfTwo: 6
+      Movable: 1
+      Mergeable: 1
+  - Coords:
+      x: 4
+      y: 2
+    BlockInfo:
+      PowerOfTwo: 6
+      Movable: 1
+      Mergeable: 1
