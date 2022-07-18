@@ -7,10 +7,10 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: GlowDot_01_Light
-  m_Shader: {fileID: 10720, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: _EMISSION
-  m_LightmapFlags: 1
+  m_Name: MainSkybox
+  m_Shader: {fileID: 4800000, guid: 491ebbc07a611de46b1923b840f0236a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -40,7 +40,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 96c77a8606a85af43a4af1dad22f4e7a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4101ccb8f2386d14c843c54610af1778, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -55,25 +55,40 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
+    - _AtmosphereThickness: 2.79
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _GlossMapScale: 1
+    - _EmissionScaleUI: 0
+    - _Exp: 1
+    - _Exposure: 5.94
     - _Glossiness: 0.5
-    - _GlossyReflections: 1
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _SmoothnessTextureChannel: 0
-    - _SpecularHighlights: 1
+    - _Rotation: 0
+    - _Scale: 0.63
     - _SrcBlend: 1
+    - _SunSize: 0.295
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
+    - _BottomColor: {r: 0.6950588, g: 0.7293176, b: 0.8235294, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmisColor: {r: 1, g: 0.8906694, b: 0.2794118, a: 1}
+    - _Color1: {r: 0.3019608, g: 0.50980395, b: 0.98823535, a: 1}
+    - _Color2: {r: 0.7294118, g: 0.23529413, b: 0.86274517, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
+    - _GroundColor: {r: 0.07586193, g: 0, b: 1, a: 1}
+    - _SkyTint: {r: 1, g: 0, b: 0, a: 1}
+    - _Tint: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    - _TopColor: {r: 0.76750594, g: 1, b: 0.759, a: 1}
+    - _Up: {r: -1.52, g: -0.39, b: 3.58, a: 1.62}
   m_BuildTextureStacks: []
