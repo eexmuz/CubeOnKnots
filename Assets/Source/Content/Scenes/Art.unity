@@ -134,6 +134,14 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: dbdf289b603b5e04497169d4a1998a0b, type: 2}
+    - target: {fileID: 3809012048431495704, guid: 928b74b8507724717b4e58467046e847, type: 3}
+      propertyPath: m_text
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 3809012048431495704, guid: 928b74b8507724717b4e58467046e847, type: 3}
+      propertyPath: m_fontSize
+      value: 38.8
+      objectReference: {fileID: 0}
     - target: {fileID: 5075888306056410837, guid: 928b74b8507724717b4e58467046e847, type: 3}
       propertyPath: m_Name
       value: Cube (5)
@@ -260,6 +268,14 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: dbdf289b603b5e04497169d4a1998a0b, type: 2}
+    - target: {fileID: 3809012048431495704, guid: 928b74b8507724717b4e58467046e847, type: 3}
+      propertyPath: m_text
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 3809012048431495704, guid: 928b74b8507724717b4e58467046e847, type: 3}
+      propertyPath: m_fontSize
+      value: 38.8
+      objectReference: {fileID: 0}
     - target: {fileID: 5075888306056410837, guid: 928b74b8507724717b4e58467046e847, type: 3}
       propertyPath: m_Name
       value: Cube (7)
@@ -482,6 +498,14 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 3a7283e7827eb8547a03fcf2b9cbd1ab, type: 2}
+    - target: {fileID: 3809012048431495704, guid: 928b74b8507724717b4e58467046e847, type: 3}
+      propertyPath: m_text
+      value: 1024
+      objectReference: {fileID: 0}
+    - target: {fileID: 3809012048431495704, guid: 928b74b8507724717b4e58467046e847, type: 3}
+      propertyPath: m_fontSize
+      value: 27.05
+      objectReference: {fileID: 0}
     - target: {fileID: 5075888306056410837, guid: 928b74b8507724717b4e58467046e847, type: 3}
       propertyPath: m_Name
       value: Cube (6)
@@ -915,6 +939,14 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 51cec28ee10c347a4bf1518e425cbbaa, type: 2}
+    - target: {fileID: 3809012048431495704, guid: 928b74b8507724717b4e58467046e847, type: 3}
+      propertyPath: m_text
+      value: 256
+      objectReference: {fileID: 0}
+    - target: {fileID: 3809012048431495704, guid: 928b74b8507724717b4e58467046e847, type: 3}
+      propertyPath: m_fontSize
+      value: 35.3
+      objectReference: {fileID: 0}
     - target: {fileID: 5075888306056410837, guid: 928b74b8507724717b4e58467046e847, type: 3}
       propertyPath: m_Name
       value: Cube (4)
@@ -1132,6 +1164,14 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 3a7283e7827eb8547a03fcf2b9cbd1ab, type: 2}
+    - target: {fileID: 3809012048431495704, guid: 928b74b8507724717b4e58467046e847, type: 3}
+      propertyPath: m_text
+      value: 1024
+      objectReference: {fileID: 0}
+    - target: {fileID: 3809012048431495704, guid: 928b74b8507724717b4e58467046e847, type: 3}
+      propertyPath: m_fontSize
+      value: 27.05
+      objectReference: {fileID: 0}
     - target: {fileID: 5075888306056410837, guid: 928b74b8507724717b4e58467046e847, type: 3}
       propertyPath: m_Name
       value: Cube (8)
@@ -1254,6 +1294,14 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: d59322efc5d91f04eb9808ef45df058a, type: 2}
+    - target: {fileID: 3809012048431495704, guid: 928b74b8507724717b4e58467046e847, type: 3}
+      propertyPath: m_text
+      value: 2048
+      objectReference: {fileID: 0}
+    - target: {fileID: 3809012048431495704, guid: 928b74b8507724717b4e58467046e847, type: 3}
+      propertyPath: m_fontSize
+      value: 25.05
+      objectReference: {fileID: 0}
     - target: {fileID: 5075888306056410837, guid: 928b74b8507724717b4e58467046e847, type: 3}
       propertyPath: m_Name
       value: Cube (9)
