@@ -3,7 +3,17 @@ guid: 4ff0140fd55f2b948832f6249e9a1126
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clothespin
+    second: {fileID: 2100000, guid: b1fdb913408acff47b04f50b3e26a9f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clothespin_metall
+    second: {fileID: 2100000, guid: 806f679b880b13745b8e82112720cb68, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
