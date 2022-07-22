@@ -83,148 +83,28 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.74509805
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
         weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.083333336
-        value: 0.74509805
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.35
-        value: 0.21568626
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: material._Color.r
-    path: Cube_2 (2)/Cube
-    classID: 23
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0.21568626
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.083333336
-        value: 0.21568626
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.35
-        value: 0.74509805
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: material._Color.g
-    path: Cube_2 (2)/Cube
-    classID: 23
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0.21568626
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.083333336
-        value: 0.21568626
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.35
-        value: 0.4047892
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: material._Color.b
-    path: Cube_2 (2)/Cube
-    classID: 23
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
+        inWeight: 0
+        outWeight: 0
       - serializedVersion: 3
         time: 0.083333336
         value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
         weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.35
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
+        inWeight: 0
+        outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: material._Color.a
-    path: Cube_2 (2)/Cube
-    classID: 23
+    attribute: m_IsActive
+    path: Cube_2 (2)/ConfettiBlastOrangeGreen
+    classID: 1
     script: {fileID: 0}
   - curve:
       serializedVersion: 2
@@ -260,7 +140,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._BaseColor.r
-    path: Cube_2 (2)/Cube
+    path: Cube_2 (2)/CubeMesh
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -297,7 +177,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._BaseColor.g
-    path: Cube_2 (2)/Cube
+    path: Cube_2 (2)/CubeMesh
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -334,7 +214,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._BaseColor.b
-    path: Cube_2 (2)/Cube
+    path: Cube_2 (2)/CubeMesh
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -371,7 +251,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._BaseColor.a
-    path: Cube_2 (2)/Cube
+    path: Cube_2 (2)/CubeMesh
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -379,7 +259,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.602
+        value: 0.74509805
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -387,8 +267,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.3
-        value: 0.52500004
+        time: 0.083333336
+        value: 0.74509805
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -396,8 +276,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.56666666
-        value: 0.73800004
+        time: 0.35
+        value: 0.21568626
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -407,8 +287,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: material._BaseColor.r
-    path: Cube_2 (2)/Cube/RopeTarget
+    attribute: material._Color.r
+    path: Cube_2 (2)/CubeMesh
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -416,7 +296,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.688
+        value: 0.21568626
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -424,17 +304,17 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.3
-        value: 0.6
-        inSlope: -0.0052516586
-        outSlope: -0.0052516586
+        time: 0.083333336
+        value: 0.21568626
+        inSlope: 0
+        outSlope: 0
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.56666666
-        value: 0.59925604
+        time: 0.35
+        value: 0.74509805
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -444,8 +324,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: material._BaseColor.g
-    path: Cube_2 (2)/Cube/RopeTarget
+    attribute: material._Color.g
+    path: Cube_2 (2)/CubeMesh
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -453,7 +333,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.18557894
+        value: 0.21568626
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -461,17 +341,17 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.3
-        value: 0.16184211
-        inSlope: -0.16755413
-        outSlope: -0.16755413
+        time: 0.083333336
+        value: 0.21568626
+        inSlope: 0
+        outSlope: 0
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.56666666
-        value: 0
+        time: 0.35
+        value: 0.4047892
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -481,8 +361,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: material._BaseColor.b
-    path: Cube_2 (2)/Cube/RopeTarget
+    attribute: material._Color.b
+    path: Cube_2 (2)/CubeMesh
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -498,7 +378,7 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.3
+        time: 0.083333336
         value: 1
         inSlope: 0
         outSlope: 0
@@ -507,7 +387,7 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.56666666
+        time: 0.35
         value: 1
         inSlope: 0
         outSlope: 0
@@ -518,8 +398,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: material._BaseColor.a
-    path: Cube_2 (2)/Cube/RopeTarget
+    attribute: material._Color.a
+    path: Cube_2 (2)/CubeMesh
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -556,7 +436,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._BaseColor.r
-    path: Cube_2 (2)/Cube/RopeTargetTop
+    path: Cube_2 (2)/CubeMesh/RopeTargetTop
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -593,7 +473,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._BaseColor.g
-    path: Cube_2 (2)/Cube/RopeTargetTop
+    path: Cube_2 (2)/CubeMesh/RopeTargetTop
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -630,7 +510,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._BaseColor.b
-    path: Cube_2 (2)/Cube/RopeTargetTop
+    path: Cube_2 (2)/CubeMesh/RopeTargetTop
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -667,7 +547,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._BaseColor.a
-    path: Cube_2 (2)/Cube/RopeTargetTop
+    path: Cube_2 (2)/CubeMesh/RopeTargetTop
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -695,7 +575,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: Cube_2 (2)/Cube/Text (TMP)
+    path: Cube_2 (2)/CubeMesh/Text (TMP)
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -723,8 +603,156 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: Cube_2 (2)/Cube/Text (TMP) (1)
+    path: Cube_2 (2)/CubeMesh/Text (TMP) (1)
     classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.602
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.3
+        value: 0.52500004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: 0.73800004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseColor.r
+    path: Cube_2 (2)/CubeMesh/RopeTargetBot
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.688
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.3
+        value: 0.6
+        inSlope: -0.0052516586
+        outSlope: -0.0052516586
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: 0.59925604
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseColor.g
+    path: Cube_2 (2)/CubeMesh/RopeTargetBot
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.18557894
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.3
+        value: 0.16184211
+        inSlope: -0.16755413
+        outSlope: -0.16755413
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseColor.b
+    path: Cube_2 (2)/CubeMesh/RopeTargetBot
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.3
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseColor.a
+    path: Cube_2 (2)/CubeMesh/RopeTargetBot
+    classID: 23
     script: {fileID: 0}
   m_PPtrCurves: []
   m_SampleRate: 60
@@ -742,126 +770,133 @@ AnimationClip:
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2124653227
+      path: 3896217122
+      attribute: 2086281974
+      script: {fileID: 0}
+      typeID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 861679987
+      attribute: 1136458424
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 861679987
+      attribute: 1404893880
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 861679987
+      attribute: 1673329336
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 861679987
       attribute: 1303350129
       script: {fileID: 0}
       typeID: 23
       customType: 22
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2124653227
+      path: 861679987
       attribute: 1571785585
       script: {fileID: 0}
       typeID: 23
       customType: 22
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2124653227
+      path: 861679987
       attribute: 1840221041
       script: {fileID: 0}
       typeID: 23
       customType: 22
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2124653227
+      path: 1158463672
       attribute: 1136458424
       script: {fileID: 0}
       typeID: 23
       customType: 22
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2124653227
+      path: 1158463672
       attribute: 1404893880
       script: {fileID: 0}
       typeID: 23
       customType: 22
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2124653227
+      path: 1158463672
       attribute: 1673329336
       script: {fileID: 0}
       typeID: 23
       customType: 22
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3724898605
-      attribute: 1136458424
-      script: {fileID: 0}
-      typeID: 23
-      customType: 22
-      isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3724898605
-      attribute: 1404893880
-      script: {fileID: 0}
-      typeID: 23
-      customType: 22
-      isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3724898605
-      attribute: 1673329336
-      script: {fileID: 0}
-      typeID: 23
-      customType: 22
-      isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1347367039
-      attribute: 1136458424
-      script: {fileID: 0}
-      typeID: 23
-      customType: 22
-      isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1347367039
-      attribute: 1404893880
-      script: {fileID: 0}
-      typeID: 23
-      customType: 22
-      isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1347367039
-      attribute: 1673329336
-      script: {fileID: 0}
-      typeID: 23
-      customType: 22
-      isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2520887039
+      path: 4069937052
       attribute: 2086281974
       script: {fileID: 0}
       typeID: 1
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3458909706
+      path: 3409957609
       attribute: 2086281974
       script: {fileID: 0}
       typeID: 1
       customType: 0
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2124653227
+      path: 1523243875
+      attribute: 1136458424
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1523243875
+      attribute: 1404893880
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1523243875
+      attribute: 1673329336
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 861679987
+      attribute: 1941764792
+      script: {fileID: 0}
+      typeID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 861679987
       attribute: 2108656497
       script: {fileID: 0}
       typeID: 23
       customType: 22
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 2124653227
+      path: 1158463672
       attribute: 1941764792
       script: {fileID: 0}
       typeID: 23
       customType: 22
       isPPtrCurve: 0
     - serializedVersion: 2
-      path: 3724898605
-      attribute: 1941764792
-      script: {fileID: 0}
-      typeID: 23
-      customType: 22
-      isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1347367039
+      path: 1523243875
       attribute: 1941764792
       script: {fileID: 0}
       typeID: 23
@@ -1086,148 +1121,28 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.74509805
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
         weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.083333336
-        value: 0.74509805
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.35
-        value: 0.21568626
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: material._Color.r
-    path: Cube_2 (2)/Cube
-    classID: 23
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0.21568626
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.083333336
-        value: 0.21568626
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.35
-        value: 0.74509805
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: material._Color.g
-    path: Cube_2 (2)/Cube
-    classID: 23
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0.21568626
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.083333336
-        value: 0.21568626
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.35
-        value: 0.4047892
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: material._Color.b
-    path: Cube_2 (2)/Cube
-    classID: 23
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
+        inWeight: 0
+        outWeight: 0
       - serializedVersion: 3
         time: 0.083333336
         value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
         weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.35
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
+        inWeight: 0
+        outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: material._Color.a
-    path: Cube_2 (2)/Cube
-    classID: 23
+    attribute: m_IsActive
+    path: Cube_2 (2)/ConfettiBlastOrangeGreen
+    classID: 1
     script: {fileID: 0}
   - curve:
       serializedVersion: 2
@@ -1263,7 +1178,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._BaseColor.r
-    path: Cube_2 (2)/Cube
+    path: Cube_2 (2)/CubeMesh
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -1300,7 +1215,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._BaseColor.g
-    path: Cube_2 (2)/Cube
+    path: Cube_2 (2)/CubeMesh
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -1337,7 +1252,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._BaseColor.b
-    path: Cube_2 (2)/Cube
+    path: Cube_2 (2)/CubeMesh
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -1374,7 +1289,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._BaseColor.a
-    path: Cube_2 (2)/Cube
+    path: Cube_2 (2)/CubeMesh
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -1382,7 +1297,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.602
+        value: 0.74509805
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1390,8 +1305,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.3
-        value: 0.52500004
+        time: 0.083333336
+        value: 0.74509805
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1399,8 +1314,8 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.56666666
-        value: 0.73800004
+        time: 0.35
+        value: 0.21568626
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1410,8 +1325,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: material._BaseColor.r
-    path: Cube_2 (2)/Cube/RopeTarget
+    attribute: material._Color.r
+    path: Cube_2 (2)/CubeMesh
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -1419,7 +1334,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.688
+        value: 0.21568626
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1427,17 +1342,17 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.3
-        value: 0.6
-        inSlope: -0.0052516586
-        outSlope: -0.0052516586
+        time: 0.083333336
+        value: 0.21568626
+        inSlope: 0
+        outSlope: 0
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.56666666
-        value: 0.59925604
+        time: 0.35
+        value: 0.74509805
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1447,8 +1362,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: material._BaseColor.g
-    path: Cube_2 (2)/Cube/RopeTarget
+    attribute: material._Color.g
+    path: Cube_2 (2)/CubeMesh
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -1456,7 +1371,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.18557894
+        value: 0.21568626
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1464,17 +1379,17 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.3
-        value: 0.16184211
-        inSlope: -0.16755413
-        outSlope: -0.16755413
+        time: 0.083333336
+        value: 0.21568626
+        inSlope: 0
+        outSlope: 0
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.56666666
-        value: 0
+        time: 0.35
+        value: 0.4047892
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1484,8 +1399,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: material._BaseColor.b
-    path: Cube_2 (2)/Cube/RopeTarget
+    attribute: material._Color.b
+    path: Cube_2 (2)/CubeMesh
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -1501,7 +1416,7 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.3
+        time: 0.083333336
         value: 1
         inSlope: 0
         outSlope: 0
@@ -1510,7 +1425,7 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.56666666
+        time: 0.35
         value: 1
         inSlope: 0
         outSlope: 0
@@ -1521,8 +1436,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: material._BaseColor.a
-    path: Cube_2 (2)/Cube/RopeTarget
+    attribute: material._Color.a
+    path: Cube_2 (2)/CubeMesh
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -1559,7 +1474,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._BaseColor.r
-    path: Cube_2 (2)/Cube/RopeTargetTop
+    path: Cube_2 (2)/CubeMesh/RopeTargetTop
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -1596,7 +1511,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._BaseColor.g
-    path: Cube_2 (2)/Cube/RopeTargetTop
+    path: Cube_2 (2)/CubeMesh/RopeTargetTop
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -1633,7 +1548,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._BaseColor.b
-    path: Cube_2 (2)/Cube/RopeTargetTop
+    path: Cube_2 (2)/CubeMesh/RopeTargetTop
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -1670,7 +1585,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: material._BaseColor.a
-    path: Cube_2 (2)/Cube/RopeTargetTop
+    path: Cube_2 (2)/CubeMesh/RopeTargetTop
     classID: 23
     script: {fileID: 0}
   - curve:
@@ -1698,7 +1613,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: Cube_2 (2)/Cube/Text (TMP)
+    path: Cube_2 (2)/CubeMesh/Text (TMP)
     classID: 1
     script: {fileID: 0}
   - curve:
@@ -1726,8 +1641,156 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: Cube_2 (2)/Cube/Text (TMP) (1)
+    path: Cube_2 (2)/CubeMesh/Text (TMP) (1)
     classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.602
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.3
+        value: 0.52500004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: 0.73800004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseColor.r
+    path: Cube_2 (2)/CubeMesh/RopeTargetBot
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.688
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.3
+        value: 0.6
+        inSlope: -0.0052516586
+        outSlope: -0.0052516586
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: 0.59925604
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseColor.g
+    path: Cube_2 (2)/CubeMesh/RopeTargetBot
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.18557894
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.3
+        value: 0.16184211
+        inSlope: -0.16755413
+        outSlope: -0.16755413
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseColor.b
+    path: Cube_2 (2)/CubeMesh/RopeTargetBot
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.3
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.56666666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: material._BaseColor.a
+    path: Cube_2 (2)/CubeMesh/RopeTargetBot
+    classID: 23
     script: {fileID: 0}
   m_EulerEditorCurves: []
   m_HasGenericRootTransform: 0
