@@ -2831,18 +2831,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: PreviewCubePack
       objectReference: {fileID: 0}
-    - target: {fileID: 7125842248824618628, guid: 515809391113b3a43a44a35005ece613, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.2517835
-      objectReference: {fileID: 0}
-    - target: {fileID: 7125842248824618628, guid: 515809391113b3a43a44a35005ece613, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.99
-      objectReference: {fileID: 0}
-    - target: {fileID: 7125842248824618628, guid: 515809391113b3a43a44a35005ece613, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -1.675
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 515809391113b3a43a44a35005ece613, type: 3}
 --- !u!1 &7233650154813996781
