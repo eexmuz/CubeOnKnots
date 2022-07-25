@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: KitchenStuffDark
+  m_Name: Case
   m_Shader: {fileID: 4800000, guid: 8d2bb70cbf9db8d4da26e15b26e74248, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -127,14 +127,14 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BASE_COLOR: {r: 0.7353569, g: 0.7353569, b: 0.7353569, a: 1}
-    - _BaseColor: {r: 0.83137256, g: 0.80541056, b: 0.7921569, a: 1}
+    - _BaseColor: {r: 0.6421324, g: 0.68523204, b: 0.6981132, a: 1}
     - _Color: {r: 0.7353569, g: 0.7353569, b: 0.7353569, a: 1}
     - _EMISSION_COLOR: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _REFLECTIONS_COLOR: {r: 1, g: 1, b: 1, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &7024904987243242523
+--- !u!114 &233551847323272558
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
